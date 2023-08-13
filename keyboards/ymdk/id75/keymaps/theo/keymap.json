@@ -78,7 +78,7 @@
       "KC_SPC",
       "KC_END",
       "KC_PGDN",
-      "MO(2)",
+      "KC_RCTL",
       "KC_LEFT",
       "KC_DOWN",
       "KC_RGHT"
@@ -141,9 +141,9 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
+      "KC_PGUP",
+      "KC_HOME",
+      "KC_PGDN",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -157,7 +157,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_MPRV",
-      "KC_TRNS",
+      "KC_END",
       "KC_MNXT"
     ],
     [
